@@ -2,7 +2,6 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.StringTokenizer;
 
 public class Q3 {
 
@@ -82,11 +81,9 @@ public class Q3 {
 
 		int n, m;
 		@SuppressWarnings("resource")
-		BufferedReader br = new BufferedReader(new FileReader("Q3.in"));
-		String s = br.readLine();
-		StringTokenizer tk = new StringTokenizer(s);
-		n = Integer.parseInt(tk.nextToken());
-		m = Integer.parseInt(tk.nextToken());
+		BufferedReader br = new BufferedReader(new FileReader("word-search.txt"));
+		String s;
+		n = 25 ; m = 20;
 		map = new char[n][m];
 		char c;
 
@@ -104,10 +101,11 @@ public class Q3 {
 				map[i][j / 2] = c;
 			}
 		}
-		int tc = Integer.parseInt(br.readLine().trim());
 
-		for (int i = 0; i < tc; i++) {
-			s = br.readLine().trim().toLowerCase();
+		br.readLine();// empty line
+		br.readLine();// words to find:
+		while ((s=br.readLine())!=null){
+			s = s.trim().toLowerCase();
 			System.out.println(s + " " + find(s).toString());
 		}
 

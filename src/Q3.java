@@ -75,6 +75,7 @@ public class Q3 {
 	public static void main(String[] args) throws IOException {
 		// we can replace the usage of loc array with a 2d loop to find the
 		// starting char of each word in the grid
+		
 		// initializing loc
 		for (int i = 0; i < 26; i++)
 			loc.add(new ArrayList<Integer>());

@@ -14,13 +14,8 @@ Create a 2-5 minute video introducing yourself and showing your passion for IGN 
 
 Q2
 ===
-			How many gamers are in the San Francisco Bay Area? Describe each step in your thought process.
- 	San Francisco bay has always been known for its great gaming community. A community that has altered the landscape of video games. They have taught many lessons to the industry.
-
-	How many gamers in San Francisco bay area? I believe that the answer will be quite large. I dare say that gamers exceed half of the population of the bay area. By gamers, I do not only mean people playing video games, but also people developing games and even people following game news and updates. We can get a near estimate by counting game purchases in the last year, but large number of gamers are increasingly playing online free games. Adding the number of active users located in the bay area that are playing online games, and this number might be misleading because the information of online users is not accurate enough, yet it's still an acceptable estimate. Finally, since we consider the San Francisco community to have revolutionized the gaming industry, there must be a large enough number of gamers creating and supporting the ideas of this revolution.
-	On the other hand, it would be safe to say that out of 4 persons there is a gamer. Since the population of San Francisco is 800 thousand, we can say that there exist 200 thousand gamer.
-
-	As a gamer and a junior software engineer I always had a great passion to be part of such a community. The feeling that you are a part of a community contributing to the gaming course in the world. I believe that the San Francisco Games Revolution has popped new ideas that really changed the gaming industry to its foundation. Creating a new model for delivering free-to-play online games has widened the base of gamers and enriched the gaming experience. To sum up I see San Francisco as one of the greatest landmarks on the gaming map, and a rich environment for game development.
+How many gamers are in the San Francisco Bay Area? Describe each step in your thought process.
+ 	attached in the mail 
 
 Q3
 ===
